@@ -4,12 +4,10 @@
 
 &lt;上海交通大学生存手册&gt;于08年由一群交大本科生写就，12年过去了无数交大学子受益于它，但有些内容可能已经过时，由于原作者团队主要属于出国攻读博士群体，本手册在国内深造、国内就业等方面存在欠缺。本项目旨在将它制作成gitbook发布，并长期维护该项目，希望能给未来的交大在读和入学新生同学带来微小的帮助，尤其感谢本书原版的作者们！
 
+# 注：以下内容还未修改！！！以下内容暂时还不适配ICPI
+
 暂定修改和增添内容如下:
 
-* [x] 增加新版序言和声明
-* [x] 更新留沪政策
-* [x] 添加详细的本科生科研建议，以及选择导师的经验
-* [x] 添加转专业经验章节进入立志篇部分
 * [ ] 添加本科转学海外经验章节进入立志篇部分
 * [ ] 添加交大各个专业的介绍进入生存技巧部分（该部分将在收集到足够投稿后按专业整合）
 * [ ] 增加交大毕业生选调的经验介绍
@@ -23,15 +21,13 @@
 * [ ] 添加本科去境外高校学期交换的经验分享
 * [ ] 添加出国申请ms/phd以及暑期科研的经验风险
 
-欢迎交大在读与已经毕业的同学提PR，也欢迎外校同学就实习、转学等项PR，如果您对本书内容有任何问题、或建议，请提issue，谢谢！
-
 ## 提issue
 
 如果有同学对访谈集内内容持有怀疑意见，认为某篇访谈内容作者过于片面或者不属实请在issue区指出具体不合适的地方，我们随后会尽力寻找相似背景的同学进行二次review作出修改
 
 ## 如何PR
 
-在gitbook.com网站上利用github账号登录，fork SurviveSJTU/SurviveSJTUManual 到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR，通过review后合并到master branch
+在gitbook.com网站上利用github账号登录，fork到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR，通过review后合并到master branch
 
 ## 旧版目录（最新版请参考SUMMARY.md）
 
@@ -42,7 +38,7 @@
 
 ### 立志篇
 
-* [欢迎来到上海交通大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
+* [欢迎来到ICPI]
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
@@ -78,7 +74,7 @@
   * [明确目的](fang-tan-ji/bao-yan-zhe-shuo/ming-que-mu-de.md)
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
-* [已经工作学长的人生经验](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/)
+* [已经工作学长的人生经验(无）]
 * [博士\(生\)学长们的经历](./)
 * [小心项目的陷阱](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/)
   * [辨别项目的质量](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/bian-bie-xiang-mu-de-zhi-liang.md)
@@ -113,5 +109,11 @@
   * [开学前两周的点名](sheng-cun-ji-qiao/pang-men-zuo-dao/kai-xue-qian-liang-zhou-de-dian-ming.md)
   * [理解“免听”](sheng-cun-ji-qiao/pang-men-zuo-dao/li-jie-mian-ting.md)
   * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
-  * [物理实验](sheng-cun-ji-qiao/pang-men-zuo-dao/wu-li-shi-yan.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
+
+### 学长学姐的（人生）经验和经历
+这部分打算以人为目录，考虑到影响可能用昵称的形式
+
+### 留学
+
+### 创业
