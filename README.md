@@ -111,6 +111,8 @@
   * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
 
+### 关于辅修
+
 ### 学长学姐的（人生）经验和经历
 这部分打算以人为目录，考虑到影响可能用昵称的形式
 
