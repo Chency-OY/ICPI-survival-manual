@@ -10,7 +10,6 @@
 暂定修改和增添内容如下:
 
 * [ ] 添加本科转学海外经验章节进入立志篇部分
-* [ ] 添加交大各个专业的介绍进入生存技巧部分（该部分将在收集到足够投稿后按专业整合）
 * [ ] 增加交大毕业生选调的经验介绍
 * [ ] 增加保研、直博的经验介绍
 
@@ -21,7 +20,6 @@
 * [ ] 由于目前就业大环境下滑，越来越多的同学选择了考研，我们希望收集一些考研成功的同学经验分享
 * [ ] 添加本科去境外高校学期交换的经验分享
 * [ ] 添加出国申请ms/phd以及暑期科研的经验风险
-
 ## 提issue
 
 如果有同学对访谈集内内容持有怀疑意见，认为某篇访谈内容作者过于片面或者不属实请在issue区指出具体不合适的地方，我们随后会尽力寻找相似背景的同学进行二次review作出修改
@@ -39,23 +37,25 @@
 
 ### 立志篇
 
-* [欢迎来到ICPI]
-* [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/)
-  * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
-  * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
-* [反对PUA](li-zhi-pian/fan-dui-pua.md)
-* [悲壮的学习方式](li-zhi-pian/bei-zhuang-de-xue-xi-fang-shi.md)
-* [你的身价是多少](li-zhi-pian/ni-de-shen-jia-shi-duo-shao.md)
-* [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
-* [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
-* [做研究的兴趣](li-zhi-pian/zuo-yan-jiu-de-xing-qu.md)
-* [关于工作](li-zhi-pian/guan-yu-gong-zuo/)
+#### 欢迎来到ICPI
+
+#### 失败的思维方式
+  * [高考思维]
+  * [被动思维]
+    
+* [反对PUA]
+* [悲壮的学习方式]
+* [你的身价是多少]
+* [正确地浪费剩下的时间]
+* [总有更值得做的事情]
+* [做研究的兴趣]
+* [关于工作]
 
 ### 访谈集
 
-* [为了留学而出国](fang-tan-ji/untitled/)
-  * [为什么要出国?](fang-tan-ji/untitled/wei-shen-me-yao-chu-guo.md)
-  * [出国读什么学位什么专业?](fang-tan-ji/untitled/chu-guo-du-shen-me-xue-wei-shen-me-zhuan-ye.md)
+* 为了留学而出国
+  * 为什么要出国？
+  * [出国读什么学位什么专业?]
   * [出国都有哪些步骤](fang-tan-ji/untitled/chu-guo-du-you-na-xie-bu-zhou.md)
   * [为了申请出国，大学期间需要准备什么](fang-tan-ji/untitled/wei-le-shen-qing-chu-guo-da-xue-qi-jian-xu-yao-zhun-bei-shen-me.md)
   * [警惕出国中介](fang-tan-ji/untitled/jing-ti-chu-guo-zhong-jie.md)
@@ -69,13 +69,13 @@
   * [御人先御己](fang-tan-ji/guan-li-zhe-de-zhi-hui/yu-ren-xian-yu-ji.md)
   * [培养团队](fang-tan-ji/guan-li-zhe-de-zhi-hui/pei-yang-tuan-dui.md)
   * [重在参与](fang-tan-ji/guan-li-zhe-de-zhi-hui/zhong-zai-can-yu.md)
-  * [认识设计类课程](fang-tan-ji/guan-li-zhe-de-zhi-hui/ren-shi-she-ji-lei-ke-cheng.md)
+  * 认识设计类课程
   * [进度控制](fang-tan-ji/guan-li-zhe-de-zhi-hui/jin-du-kong-zhi.md)
 * [保研者说](fang-tan-ji/bao-yan-zhe-shuo/)
-  * [明确目的](fang-tan-ji/bao-yan-zhe-shuo/ming-que-mu-de.md)
+  * 明确目的
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
-  * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
-* [已经工作学长的人生经验(无）]
+  * 硕士之后
+* [已经工作学长的人生经验(无）
 * [博士\(生\)学长们的经历](./)
 * [小心项目的陷阱](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/)
   * [辨别项目的质量](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/bian-bie-xiang-mu-de-zhi-liang.md)
@@ -96,7 +96,7 @@
 * [人文、经管类课程](fu-lu/ren-wen-jing-guan-lei-ke-cheng/)
   * [必修类](fu-lu/ren-wen-jing-guan-lei-ke-cheng/bi-xiu-lei.md)
   * [选修类](fu-lu/ren-wen-jing-guan-lei-ke-cheng/xuan-xiu-lei.md)
-* [突击备考](sheng-cun-ji-qiao/tu-ji-bei-kao/)
+* [突击备考]
   * [注意复习范围](sheng-cun-ji-qiao/tu-ji-bei-kao/zhu-yi-fu-xi-fan-wei.md)
   * [三天冲刺](sheng-cun-ji-qiao/tu-ji-bei-kao/san-tian-chong-ci.md)
   * [考试结束后](sheng-cun-ji-qiao/tu-ji-bei-kao/kao-shi-jie-shu-hou.md)
@@ -107,10 +107,12 @@
   * [理性挂科，合理重修](sheng-cun-ji-qiao/zheng-que-jie-du-cheng-ji-suan-fa/li-xing-gua-ke-he-li-zhong-xiu.md)
   * [风险与收益并存](sheng-cun-ji-qiao/zheng-que-jie-du-cheng-ji-suan-fa/feng-xian-yu-shou-yi-bing-cun.md)
 * [旁门左道](sheng-cun-ji-qiao/pang-men-zuo-dao/)
-  * [开学前两周的点名](sheng-cun-ji-qiao/pang-men-zuo-dao/kai-xue-qian-liang-zhou-de-dian-ming.md)
-  * [理解“免听”](sheng-cun-ji-qiao/pang-men-zuo-dao/li-jie-mian-ting.md)
-  * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
-  * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
+#### 开学前两周的点名
+
+注： 这部分都是未改动原文，是否适用请自行判断
+
+  * [理解“免听”]
+  * 学术灌水
 
 ### 关于辅修
 
